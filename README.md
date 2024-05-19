@@ -35,7 +35,7 @@ pip install -r requirements.txt
    python main.py
    ```
 检测文本格式支持``.pdf``和``.txt``最后效果如图所示
-![Uploading image.png…]()
+![运行结果](结果.png)
 
 ## 贡献
 我们欢迎任何形式的贡献，请通过提交问题（issue）或拉取请求（pull request）的方式参与。
