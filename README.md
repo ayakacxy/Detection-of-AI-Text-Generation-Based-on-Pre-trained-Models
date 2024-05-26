@@ -48,5 +48,4 @@ pip install -r requirements.txt
 - 谢旋超
 - 陈夏雨
 - 张如顺
-- 廖健铭
 
